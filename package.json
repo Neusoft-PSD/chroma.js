@@ -1,9 +1,9 @@
 {
-  "name": "chroma-js",
+  "name": "chroma-js-hack4echart",
   "description": "JavaScript library for color conversions",
   "version": "1.2.1",
-  "author": "Gregor Aisch",
-  "homepage": "https://github.com/gka/chroma.js",
+  "author": "Gavin Wang",
+  "homepage": "https://github.com/Neusoft-PSD/chroma.js",
   "keywords": [
     "color"
   ],
@@ -19,10 +19,10 @@
       "web": "http://driven-by-data.net"
     }
   ],
-  "bugs": "https://github.com/gka/chroma.js/issues",
+  "bugs": "https://github.com/Neusoft-PSD/chroma.js/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gka/chroma.js.git"
+    "url": "git://github.com/Neusoft-PSD/chroma.js.git"
   },
   "main": "chroma.js",
   "scripts": {
