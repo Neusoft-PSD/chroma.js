@@ -1,12 +1,12 @@
 ###*
 	ColorBrewer colors for chroma.js
 
-	Copyright (c) 2002 Cynthia Brewer, Mark Harrower, and The 
+	Copyright (c) 2002 Cynthia Brewer, Mark Harrower, and The
 	Pennsylvania State University.
 
-	Licensed under the Apache License, Version 2.0 (the "License"); 
+	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
-	You may obtain a copy of the License at	
+	You may obtain a copy of the License at
 	http://www.apache.org/licenses/LICENSE-2.0
 
 	Unless required by applicable law or agreed to in writing, software distributed
@@ -62,3 +62,4 @@ chroma.brewer = brewer =
 	Pastel2: ['#b3e2cd', '#fdcdac', '#cbd5e8', '#f4cae4', '#e6f5c9', '#fff2ae', '#f1e2cc', '#cccccc']
 	Pastel1: ['#fbb4ae', '#b3cde3', '#ccebc5', '#decbe4', '#fed9a6', '#ffffcc', '#e5d8bd', '#fddaec', '#f2f2f2']
 	EchartThemeR6C1: ['#c12e34','#e6b600','#0098d9','#2b821d','#005eaa','#339ca8','#cda819','#32a487']
+	DataVizSet1: ['#9A5E48','#8E4DA4','#496C8D','#4DA45D','#9A904B']

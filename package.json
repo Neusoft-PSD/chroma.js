@@ -1,7 +1,7 @@
 {
   "name": "chroma-js-hack4echart",
   "description": "JavaScript library for color conversions",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "author": "Gavin Wang",
   "homepage": "https://github.com/Neusoft-PSD/chroma.js",
   "keywords": [
